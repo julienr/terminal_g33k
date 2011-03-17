@@ -15,5 +15,8 @@ Unfortunately, I cannot distribute the data.
 This is how it looks like
 .. image:: http://fhtagn.net/images/tg/screen_tg.png
 
-
+Samples
+=======
+The two samples in samples/ require that the main project is compiled first ("scons" in the root directory).
+They demonstrate collision detection in 2D/3D
 
